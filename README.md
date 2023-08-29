@@ -1,3 +1,4 @@
+![logo](https://github.com/Shhivammm/Shhivammm/blob/main/2.gif)
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://webcoder.co.in/wp-content/uploads/2021/04/website.gif">
