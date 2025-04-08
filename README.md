@@ -1,8 +1,5 @@
-![logo](https://github.com/Shhivammm/Shhivammm/blob/main/2.gif)
-<h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://webcoder.co.in/wp-content/uploads/2021/04/website.gif">
 
+<h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhivammm&label=Profile%20views&color=0e75b6&style=flat" alt="shhivammm" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shivam_pandey1" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_pandey1?logo=twitter&style=for-the-badge" alt="shivam_pandey1" /></a> </p>
